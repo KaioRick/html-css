@@ -1,0 +1,58 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Source+Code+Pro&display=swap');
+body{
+    height: 100%;
+    background-image: linear-gradient(to left ,#E14093,#C978F5,#7762DE );
+}
+section#corpo{
+    width: 72%;
+    height: 720px;
+    margin-left: 14%;
+    margin-top: 1%;
+    background-color: white; 
+    border-radius: 8px;
+}
+section#corpo img{
+    
+    margin-left: 10%;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    width: 35%;
+    position: static;
+    height: auto;
+
+}
+div#login1 {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    margin-left: 36%;
+    margin-top: -30%;
+    padding: 10px;
+    border-radius: 8px;
+}
+div#login1 h1{
+    font-size: 30px;
+    margin-top: -30px;
+     margin-left: 100%;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+div#login1 input{
+    background-color: #E9E5EE;
+    padding-right: 100px;
+    padding-left: 50px;
+    margin-top: 10px;
+    margin-left: 28px;
+    width: 150%;
+    height: 34px;
+    font-size: 17px;
+    border: 5px solid #E9E5EE;
+    border-radius:  50px;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+div#login2 {
+    
+}
